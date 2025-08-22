@@ -1,7 +1,7 @@
 
-<title>IT PERSONNEL / VB.NET PROGRAMMER</title>
+# IT PERSONNEL / VB.NET PROGRAMMER
 
-<strong>Skills</strong>
+### Skills
 
 VISUAL STUDIO Programmer
 
@@ -10,7 +10,7 @@ System Administrator
 CCTV and Setup installation 
 
 
-<strong>Education History</strong>
+### Education History
 
 AAS. Electronic Engineering, D.L.S.U.-Dasmarinas Cavite (2004 - 2006)
 
@@ -18,7 +18,7 @@ B.S. Computer Science, AMA Computer College (2007 - 2011)
 
 
 
-<strong>Work Experiences</strong>
+### Work Experiences
 
 <b>System Administrator</b>
 
