@@ -24,26 +24,32 @@ B.S. Computer Science, AMA Computer College (2007 - 2011)
 
 <b>BemzConnect | Dasmarinas Cavite PH | 2021 - Present<b/>
 
-* Installed and configured a range of IT infrastructure, including computer hardware, software, systems, networks, printers, and scanners.
+* System Maintenance and Upkeep: Install, configure, and maintain operating systems and software. Perform regular updates, patches, and upgrades to ensure security and performance.
 
-* Provided comprehensive technical support to staff across the entire company.
+* User and Access Management: Create and manage user accounts, permissions, and access rights. Troubleshoot and resolve user-related issues, such as login problems and file access errors.
 
-* Diagnosed, repaired, and replaced faulty equipment to minimize downtime.
+* Hardware and Software Support: Provide technical support for hardware components (e.g., servers, desktops, printers) and software applications. Diagnose and resolve technical problems efficiently.
 
-* Evaluated and tested new technology to improve company efficiency and productivity.
+* Network and Security Management: Monitor network performance and security. Implement and maintain security protocols, firewalls, and data backups to protect against data loss and unauthorized access.
+
+* Performance Monitoring and Optimization: Monitor system performance and resource utilization. Identify and resolve bottlenecks to improve efficiency and system responsiveness.
+
+* Disaster Recovery: Develop and implement disaster recovery plans to ensure business continuity in the event of system failures or other disasters.
 
 
 <b>IT Personnel / Programmer</b>
 
 <b>P.T. Universal Gloves | Medan, N. Sumatra, Indonesia | 2012–2021</b>
 
-* Installed and configured a range of IT infrastructure, including computer hardware, software, systems, networks, printers, and scanners.
+* Software Development: Design, code, and implement new software applications using Visual Basic. This includes writing clean, efficient, and well-documented code.
 
-* Provided comprehensive technical support to staff across the entire company.
+* Maintenance and Support: Update, patch, and debug existing applications to ensure continued functionality and performance. Troubleshoot issues as they arise and provide technical support for these systems.
 
-* Diagnosed, repaired, and replaced faulty equipment to minimize downtime.
+* Database Management: Design, develop, and interact with databases (like SQL Server or Microsoft Access) to support application functionality, including writing and optimizing SQL queries.
 
-* Evaluated and tested new technology to improve company efficiency and productivity.
+* System Integration: Integrate older Visual Basic applications with newer systems and programming languages to ensure seamless data flow and functionality.
+
+* Documentation: Create and maintain technical documentation for all developed applications, including design specifications, code comments, and user guides.
 
 
 <b>IT Personnel / Programmer</b>
