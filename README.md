@@ -1,8 +1,11 @@
 Allan Philip A. Bombarda
+
 Dasmariñas City, Cavite, Philippines | 09266580226 | allanbombarda@gmail.com
+
 linkedin.com/in/allanbombarda | github.com/AllanPhiBmbrda
 
 # Professional Summary
+
 Versatile and analytical System Administrator and Programmer with extensive experience managing enterprise IT infrastructure and developing database-driven software solutions. Proven track record in orchestrating Docker containerization, configuring secure Linux environments, and building advanced AI automation pipelines (n8n, RAG, vector databases). Adept at bridging legacy systems with modern cloud technologies to maximize uptime, optimize workflows, and secure API architectures.
 Core Competencies
     • Infrastructure & DevOps: System Administration, Docker Containerization, Linux (Mint/Ubuntu), Apache2 Virtual Hosts, Raspberry Pi Infrastructure, Resource Monitoring
@@ -10,9 +13,9 @@ Core Competencies
     • Automation & AI Engineering: n8n Workflow Automation, AI Agent Integration, Retrieval-Augmented Generation (RAG) Pipelines, Vector Databases, Persistent Chat Memory
     • IT Support & Networking: Network Troubleshooting, Server Maintenance, PC Reformatting, Hardware Diagnostics & Maintenance
 
-Professional Experience
+# Professional Experience
 
-System Administrator | BemzConnect – Cavite, Philippines
+<b>System Administrator | BemzConnect – Cavite, Philippines</b>
 April 2022 – Present
     • System Maintenance: Oversee the installation, configuration, and maintenance of enterprise operating systems and software, ensuring 99.9% uptime through proactive patching and upgrades.
     • Infrastructure Management: Managed containerized applications via Docker on Linux Mint and Raspberry Pi hardware to streamline internal services.
