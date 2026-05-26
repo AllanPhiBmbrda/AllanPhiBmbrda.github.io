@@ -8,6 +8,7 @@ linkedin.com/in/allanbombarda | github.com/AllanPhiBmbrda
 
 Versatile and analytical System Administrator and Programmer with extensive experience managing enterprise IT infrastructure and developing database-driven software solutions. Proven track record in orchestrating Docker containerization, configuring secure Linux environments, and building advanced AI automation pipelines (n8n, RAG, vector databases). Adept at bridging legacy systems with modern cloud technologies to maximize uptime, optimize workflows, and secure API architectures.
 Core Competencies
+
     • Infrastructure & DevOps: System Administration, Docker Containerization, Linux (Mint/Ubuntu), Apache2 Virtual Hosts, Raspberry Pi Infrastructure, Resource Monitoring
     • Software Development: PHP, VB.NET, SQL Database Management, PostgreSQL, API Security, Scripting & Utilities
     • Automation & AI Engineering: n8n Workflow Automation, AI Agent Integration, Retrieval-Augmented Generation (RAG) Pipelines, Vector Databases, Persistent Chat Memory
