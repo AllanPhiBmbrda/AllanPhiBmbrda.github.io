@@ -98,9 +98,6 @@ Proven expertise in **Docker containerization**, secure Linux environments, and 
 - **Bachelor of Science in Computer Science**  
   AMA Computer College
 
-- **Associate in Applied Science in Electronic Engineering**  
-  De La Salle University - Dasmariñas
-
 ---
 
 ## Let's Connect
