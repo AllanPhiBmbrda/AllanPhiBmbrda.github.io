@@ -1,6 +1,5 @@
-# Allan Philip A. Bombarda
 
-**System Administrator | Full-Stack Programmer | AI Automation Engineer**
+# System Administrator | Full-Stack Programmer | AI Automation Engineer**
 
 Dasmariñas City, Cavite, Philippines  
 📞 0926 658 0226 | ✉️ allanbombarda@gmail.com  
