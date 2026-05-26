@@ -18,35 +18,44 @@ Core Competencies
 
 <b>System Administrator | BemzConnect – Cavite, Philippines</b>
 April 2022 – Present
+
     • System Maintenance: Oversee the installation, configuration, and maintenance of enterprise operating systems and software, ensuring 99.9% uptime through proactive patching and upgrades.
     • Infrastructure Management: Managed containerized applications via Docker on Linux Mint and Raspberry Pi hardware to streamline internal services.
     • Security & Data Integrity: Implement robust security protocols, firewalls, and automated data backup systems to protect against unauthorized access and mitigate data loss.
     • Disaster Recovery: Formulated and executed comprehensive disaster recovery plans, ensuring business continuity during critical system failures.
     • User Management: Administer user accounts and permissions, resolving complex login and access issues for diverse teams.
-System Administrator & Programmer | P.T. Universal Gloves – Medan, Indonesia
+    
+<b>System Administrator & Programmer | P.T. Universal Gloves – Medan, Indonesia</b>
 August 2012 – November 2021
+
     • Software Development: Designed and deployed custom software applications using Visual Basic.NET, focusing on clean, efficient code to improve industrial operational efficiency.
     • Database Management: Developed and optimized MySQL Server databases, writing complex queries to support real-time application data flow.
     • System Integration: Successfully bridged legacy Visual Basic applications with modern systems to ensure seamless data synchronization across departments.
     • Technical Documentation: Authored and maintained detailed technical specifications, user manuals, and code documentation for all internal software projects.
 
 
-IT Personnel & Programmer | Ground Air Freight Forwarding Corp – Parañaque City, Philippines 
+<b>IT Personnel & Programmer | Ground Air Freight Forwarding Corp – Parañaque City, Philippines</b>
 January 2011 – May 2012
+
     • Infrastructure Deployment: Configured a wide range of IT hardware including servers, network switches, printers, and scanners.
     • Technical Support: Provided Tier 1 and Tier 2 technical assistance to all corporate staff, minimizing downtime through rapid hardware repair and replacement.
     • Technology Evaluation: Tested and integrated new hardware and software solutions to enhance company-wide productivity.
-Technical Projects
-AI Automation & RAG Architecture
+    
+# Technical Projects
+<b>AI Automation & RAG Architecture</b>
+
     • Engineered advanced automation agents using n8n, integrating Supabase and PostgreSQL vector databases to manage complex Retrieval-Augmented Generation (RAG) pipelines.
     • Designed and configured persistent chat memory systems within Docker-hosted Postgres instances to ensure zero data loss during service restarts.
     
-E-Commerce Affiliate Marketing & Web Development
+<b>E-Commerce Affiliate Marketing & Web Development</b>
+
     • Designed, built, and optimized high-traffic landing pages and automated affiliate websites (shoppmy.zhoppawise.win) to promote consumer products across major networks, including Amazon, Shopee, and Lazada.
     
-Virtual Assistant Recruitment & Matchmaking Platform
+<b>Virtual Assistant Recruitment & Matchmaking Platform</b>
+
     • Developed a pseudo-project (zhoppawise VA at zhoppawise.win) integrating automated email notification systems to trigger status updates for applicants and auto-respond to prospective client inquiries.
     
-Education
+# Education
+
     • Bachelor of Science in Computer Science | AMA Computer College
     • Associate in Applied Science in Electronic Engineering | De La Salle University - Dasmariñas
