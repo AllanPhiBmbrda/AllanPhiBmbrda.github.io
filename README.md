@@ -21,7 +21,6 @@ Proven expertise in **Docker containerization**, secure Linux environments, and 
 - Docker Containerization
 - Linux Administration (Mint/Ubuntu)
 - Apache2 Virtual Hosts
-- Raspberry Pi Infrastructure
 - System Monitoring & Resource Optimization
 
 ### Software Development
