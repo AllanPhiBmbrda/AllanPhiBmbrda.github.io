@@ -1,5 +1,5 @@
 
-# System Administrator |IT Generalist
+# System Administrator | IT Generalist
 
 Dasmariñas City, Cavite, Philippines  
 📞 0926 658 0226 | ✉️ allanbombarda@gmail.com  
